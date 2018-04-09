@@ -1,0 +1,13 @@
+{
+    "Buy": {
+        "price": 0.00000514,
+        "quantity": 3000
+    },
+    "Sell": {
+        "price": 0.00000519
+    },
+    "Exchange": {
+        "BTCUSD": 6750,
+        "USDVND": 23000
+    }
+}
