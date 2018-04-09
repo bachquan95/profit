@@ -8,3 +8,4 @@ const ProfitVND = ProfitUSD * input.Exchange.USDVND;
 console.log(`Profit BTC: ${ProfitBTC.toFixed(8)}`);
 console.log(`Profit USD: ${ProfitUSD.toFixed(8)}`);
 console.log(`Profit VND: ${ProfitVND.toFixed(8)}`);
+console.log(`Time: ${(0.001 / ProfitBTC.toFixed(8)).toFixed(0)}`)

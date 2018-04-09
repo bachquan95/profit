@@ -1,10 +1,10 @@
 {
     "Buy": {
-        "price": 0.00000514,
-        "quantity": 3000
+        "price": 0.00000406,
+        "quantity": 6000
     },
     "Sell": {
-        "price": 0.00000519
+        "price": 0.00000408
     },
     "Exchange": {
         "BTCUSD": 6750,
